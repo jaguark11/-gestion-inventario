@@ -25,17 +25,14 @@ mongod
 4. Iniciar el Servidor
 Ejecuta el siguiente comando para iniciar el servidor con Nodemon:
 
-bash
-Copiar código
+
 npm run dev
 El servidor se ejecutará en:
 
-bash
-Copiar código
+
 http://localhost:3000
 🗂️ Estructura del Proyecto
-graphql
-Copiar código
+
 gestion-inventario/
 │-- models/
 │   └── Producto.js       # Modelo de producto con validaciones
